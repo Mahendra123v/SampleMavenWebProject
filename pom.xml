@@ -26,6 +26,11 @@
     <version>2.0</version>
     <scope>provided</scope>
 </dependency>
+<dependency>
+    <groupId>org.wildfly</groupId>
+    <artifactId>wildfly-pojo</artifactId>
+    <version>18.0.1.Final</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>SampleMavenWebProject</finalName>
